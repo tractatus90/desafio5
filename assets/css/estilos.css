@@ -56,3 +56,10 @@ a .foto-logo{
 
 
 }
+
+#Mis-trabajos .logica-programacion {
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+}
