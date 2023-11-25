@@ -5,10 +5,10 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image:url(../img/20230910_164627.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left;
+  background-size:cover;
+  background-position:right;
 }
 
 /* Mis trabajos */
@@ -35,5 +35,24 @@ body {
   .navbar-brand{
     width: 100px;
   }
+
+}
+
+a .foto-logo{
+  height: 80px;
+  padding: 0;
+  margin: 0;
+  
+}
+
+.titulo-header {
+  background-color:hsl(180, 100%, 50%, 0.5);
+  display: inline-block;
+
+}
+
+.parrafo-header {
+  background-color:hsl(180, 100%, 50%, 0.5);
+
 
 }
